@@ -29,7 +29,7 @@ Group name
 Console.log your best movie
 */
 
-const myInfo = {
+const aboutMe = {
   firstName: "Clinton",
   lastName: "Okechukwu",
   bestMovie: "Naruto",
