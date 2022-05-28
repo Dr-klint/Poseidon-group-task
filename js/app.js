@@ -36,7 +36,7 @@ const aboutMe = {
   bestFood: "Pounded Yam",
   complexion: "Fair",
   birthMonth: "April",
-  state: "olympius",
+  state: "Abia State",
   groupName: "Poseidon",
 };
 
